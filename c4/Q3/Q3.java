@@ -11,7 +11,6 @@ public static void main(String[] args) {
 System.out.println("Name: Gayathri suresh");
 System.out.println("Reg. No: 23mca028");
 System.out.println("Date: 15/04/2024");
-System.out.println("Course code: 20MCA132");
 System.out.println();
 String username = "student";
 String passcode = "student123";
